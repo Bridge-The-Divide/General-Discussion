@@ -1,2 +1,4 @@
 # General-Discussion
 This repository serves as a starting point to discuss the general idea of Bridge-The-Divide.
+
+Welcome to Bridge-The-Divide, an initiative dedicated to -bridging societal gaps through the power of digital tools-. In an era where digital forums often become echo chambers and deepen the divide between differing opinions. Our mission is to encourage understanding and dialogue. Through innovative solutions like the *ForumInsighter plugin*, we aim to make lengthy discussion threads more accessible, visualize the spectrum of perspectives, and enable a deeper comprehension of others' arguments. Our goal is to enrich online communication and lay the groundwork for constructive and inclusive discussions. Join Bridge-The-Divide, and help us bring the digital community closer together.
